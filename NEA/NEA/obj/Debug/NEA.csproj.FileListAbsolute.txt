@@ -1,0 +1,23 @@
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\NEA.exe.config
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\NEA.exe
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\NEA.pdb
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.Properties.Resources.resources
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.csproj.GenerateResource.cache
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.exe
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.pdb
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\obj\Debug\NEA.Form1.resources
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Data\High Score.txt
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Alien.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Asteroid.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Coin.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Cracked Asteroid.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Double Coins.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Double score.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Invincibility.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Data\Map1.txt
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Data\Map2.txt
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Data\Map3.txt
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Player Character.png
+C:\Users\henri\source\repos\0 NEA\NEA\NEA\bin\Debug\Images\Square.png
